@@ -7,4 +7,4 @@ Clean Sneakers e-Commerce app UI using flutter,This project consist of two Scree
 
 ### Perfume app Final UI
 
-![App UI](/sneaker.png)
+![App UI](/sneakers.png)
