@@ -9,7 +9,7 @@ class ExploreProducts extends StatefulWidget {
 }
 
 class _ExploreProductsState extends State<ExploreProducts> {
-  List<String> menuItems = ['Snekers', 'Slides', 'Clogs', 'Sandals','Flip-Flops'];
+  List<String> menuItems = ['Sneakers', 'Slides', 'Clogs', 'Sandals','Flip-Flops'];
 
   int selectedMenuIndex = 0;
 

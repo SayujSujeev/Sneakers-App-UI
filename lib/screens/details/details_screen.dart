@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:sneker_app_ui/models/sneaker.dart';
+import 'package:sneker_app_ui/models/sneakers.dart';
 import 'package:sneker_app_ui/screens/details/components/details_body.dart';
 
 class DetailsScreen extends StatefulWidget {

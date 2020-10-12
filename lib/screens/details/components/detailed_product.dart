@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sneker_app_ui/constants/constants.dart';
-import 'package:sneker_app_ui/models/sneaker.dart';
+import 'package:sneker_app_ui/models/sneakers.dart';
 
 class DetailedProduct extends StatefulWidget {
   final Sneaker sneker;

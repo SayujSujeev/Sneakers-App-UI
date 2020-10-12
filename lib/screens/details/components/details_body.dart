@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:sneker_app_ui/constants/constants.dart';
-import 'package:sneker_app_ui/models/sneaker.dart';
+import 'package:sneker_app_ui/models/sneakers.dart';
 import 'package:sneker_app_ui/screens/details/components/detailed_product.dart';
 import 'package:sneker_app_ui/screens/details/components/details_background.dart';
 import 'package:sneker_app_ui/screens/details/components/similar_products.dart';

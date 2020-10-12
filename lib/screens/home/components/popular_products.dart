@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sneker_app_ui/constants/constants.dart';
 import 'package:sneker_app_ui/data/data.dart';
-import 'package:sneker_app_ui/models/sneaker.dart';
+import 'package:sneker_app_ui/models/sneakers.dart';
 import 'package:sneker_app_ui/screens/details/details_screen.dart';
 
 class PopularProducts extends StatelessWidget {

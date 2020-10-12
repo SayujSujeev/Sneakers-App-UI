@@ -1,6 +1,6 @@
 
 
-import 'package:sneker_app_ui/models/sneaker.dart';
+import 'package:sneker_app_ui/models/sneakers.dart';
 
 //Sneakers data
 final _sneker1 = Sneaker(
